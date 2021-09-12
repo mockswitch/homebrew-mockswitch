@@ -1,6 +1,6 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
-class mockswitch < Formula
+class Mockswitch < Formula
     desc "Mock services simplified"
     homepage "https://mockswitch.com"
     url "https://github.com/mockswitch/homebrew-mockswitch/releases/download/1.29.0/mockswitch.tar.gz"
