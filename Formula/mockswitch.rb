@@ -4,7 +4,7 @@ class Mockswitch < Formula
     desc "Mock services simplified"
     homepage "https://mockswitch.com"
     url "https://github.com/mockswitch/homebrew-mockswitch/releases/download/1.29.0/mockswitch.tar.gz"
-    sha256 "4763c8ceb7c3f369423a018fe8e2966ae6b57c3f089341f64668cfebba693f01"
+    sha256 "6c40eb46265ef421837078f98a130ac2a15d7c0bc7c1ac726b6ffba0545c3705"
     version "1.29.0"
   
     def install
